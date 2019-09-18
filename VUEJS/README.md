@@ -2,7 +2,7 @@
 
 > A Vue diary project
 
-Using VUEX as statemachine & VUERouter as routing
+Using VUEX for state management & VUERouter as routing
 
 ## Build Setup
 
