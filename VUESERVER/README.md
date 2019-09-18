@@ -1,7 +1,7 @@
 # VUEJS SERVER
 
 The backend for VUE application using Express and SQLLite
-Will create a SQL file at root if there is none
+> Will create a SQL file at root if there is none
 
 ## Build Setup
 
